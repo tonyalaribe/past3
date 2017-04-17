@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/tonyalaribe/p3",
+	"ImportPath": "github.com/tonyalaribe/past3",
 	"GoVersion": "go1.8",
 	"GodepVersion": "v75",
 	"Deps": [
