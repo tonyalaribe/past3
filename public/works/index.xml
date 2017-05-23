@@ -315,6 +315,141 @@
     
     <item>
       <title></title>
+      <link>https://past3.com.ng/works/freedom_carnival_band/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://past3.com.ng/works/freedom_carnival_band/</guid>
+      <description>&lt;!doctype html&gt;
+&lt;!--[if lt IE 7]&gt;      &lt;html class=&#34;no-js lt-ie9 lt-ie8 lt-ie7&#34; lang=&#34;&#34;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 7]&gt;         &lt;html class=&#34;no-js lt-ie9 lt-ie8&#34; lang=&#34;&#34;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 8]&gt;         &lt;html class=&#34;no-js lt-ie9&#34; lang=&#34;&#34;&gt; &lt;![endif]--&gt;
+&lt;!--[if gt IE 8]&gt;&lt;!--&gt; &lt;html class=&#34;no-js&#34; lang=&#34;&#34;&gt; &lt;!--&lt;![endif]--&gt;
+    &lt;head&gt;
+        &lt;meta charset=&#34;utf-8&#34;&gt;
+        &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge,chrome=1&#34;&gt;
+        &lt;title&gt; Works || Past 3 Web design studio in Nigeria&lt;/title&gt;
+        &lt;meta name=&#34;description&#34; content=&#34;&#34;&gt;
+        &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;
+        &lt;link rel=&#34;apple-touch-icon&#34; href=&#34;apple-touch-icon.png&#34;&gt;
+
+        &lt;link rel=&#34;stylesheet&#34; href=&#34;https://past3.com.ng/css/tachyons.min.css&#34;&gt;
+        &lt;link rel=&#34;stylesheet&#34; href=&#34;https://past3.com.ng/css/main.css&#34;&gt;
+
+        &lt;!--[if lt IE 9]&gt;
+            &lt;script src=&#34;js/vendor/html5-3.6-respond-1.4.2.min.js&#34;&gt;&lt;/script&gt;
+        &lt;![endif]--&gt;
+    &lt;/head&gt;
+    &lt;body class=&#34;avenir fw4&#34; style=&#34;background-color:#fafafa&#34;&gt;
+        &lt;!--[if lt IE 8]&gt;
+            &lt;p class=&#34;browserupgrade&#34;&gt;You are using an &lt;strong&gt;outdated&lt;/strong&gt; browser. Please &lt;a href=&#34;http://browsehappy.com/&#34;&gt;upgrade your browser&lt;/a&gt; to improve your experience.&lt;/p&gt;
+        &lt;![endif]--&gt;
+        {{ partial &#34;menu_overlay.html&#34; .}}
+        &lt;section class=&#34;pa2 &#34;&gt;
+            &lt;div class=&#34; h-100 w-100&#34; &gt;
+                 {{ partial &#34;menu_normal.html&#34;}}
+
+
+                &lt;div class=&#34;tc pv5&#34;&gt;
+                    &lt;h2 class=&#34;f3 f1-ns fw1 baskerville dib w-70-ns &#34; &gt;
+                        Freedom band is one of the top carnival bands that adorn the streets of calabar during the calabar carnival.
+                    &lt;/h2&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/section&gt;
+
+        &lt;section class=&#34;tc&#34;&gt;
+          &lt;div class=&#34;w-70-ns dib bg-black pa5-ns br4-ns &#34; style=&#34;&#34;&gt;
+            &lt;div style=&#34;&#34; class=&#34;image-parent&#34;&gt;
+              &lt;img src=&#34;https://past3.com.ng/img/freedom_band/home_long.png&#34; alt=&#34;Freedom Carnival Band&#34;/&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/section&gt;
+
+        &lt;section&gt;
+          &lt;div class=&#34;tc pv5&#34;&gt;
+              &lt;h2 class=&#34;f3 f1-ns fw1 baskerville dib w-70-ns &#34; &gt;
+                  Past 3 built a simple but functional online experience to ease connecting with the band. The site was built as a custom template for the hugo templating engine, to ease making updates, while reducing security concerns and cost of managing the platform.
+              &lt;/h2&gt;
+          &lt;/div&gt;
+        &lt;/section&gt;
+
+        &lt;!--
+        &lt;section class=&#34;tc&#34;&gt;
+          &lt;div class=&#34;w-70-ns dib bg-black pa5 br4 &#34; style=&#34;&#34;&gt;
+            &lt;div style=&#34;max-height:500px;  overflow-y:scroll;&#34;&gt;
+              &lt;video width=&#34;100%&#34; height=&#34;100%&#34; autoplay controls loop&gt;
+                &lt;source src=&#34;https://past3.com.ng/works/video/visaexpress_frontend.webm&#34; type=&#34;video/webm&#34;&gt;
+              Your browser does not support the video tag.
+              &lt;/video&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/section&gt;
+      --&gt;
+        &lt;!-- &lt;section class=&#34;tc&#34;&gt;
+          &lt;div class=&#34;w-70-ns dib bg-black pa5-ns br4-ns &#34; style=&#34;&#34;&gt;
+            &lt;div &gt;
+              &lt;iframe  id=&#34;backend_vid&#34; class=&#34;youtube_vid&#34; src=&#34;https://www.youtube.com/embed/Am7CIbujB7E?loop=1&amp;showinfo=0&amp;playlist=Am7CIbujB7E&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/section&gt; --&gt;
+
+
+
+      &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
+      &lt;section class=&#34;cf pv4&#34;&gt;
+        &lt;div class=&#34;w-50 dib fl pr1&#34;&gt;
+          &lt;img src=&#34;https://past3.com.ng/img/freedom_band/home_short.png&#34; alt=&#34;home page of freedom carnival band&#34; /&gt;
+        &lt;/div&gt;&lt;div class=&#34;w-50 dib fl pl1&#34;&gt;
+          &lt;img src=&#34;https://past3.com.ng/img/freedom_band/slide1.png&#34; alt=&#34;Calabar Yellow Pages Dashboard Copy&#34; /&gt;
+        &lt;/div&gt;&lt;div class=&#34;w-50 dib fl pl1&#34;&gt;
+          &lt;img src=&#34;https://past3.com.ng/img/freedom_band/slide2.png&#34; alt=&#34;Calabar Yellow Pages Dashboard Footer&#34; /&gt;
+        &lt;/div&gt;&lt;div class=&#34;w-50 dib fl pl1&#34;&gt;
+          &lt;img src=&#34;https://past3.com.ng/img/freedom_band/slide3.png&#34; alt=&#34;Calabar Yellow Pages Gallery&#34; /&gt;
+        &lt;/div&gt;
+      &lt;/section&gt;
+
+      &lt;style&gt;
+        .youtube_vid{
+          width:100%;
+          height:200px;
+        }
+        .image-parent{
+          overflow-y:scroll;
+        }
+        @media(min-width:480px){
+
+          .youtube_vid{
+            height:430px;
+          }
+          .image-parent{
+            max-height:450px;
+          }
+        }
+
+      &lt;/style&gt;
+        {{ partial &#34;footer_normal.html&#34; }}
+
+        &lt;script src=&#34;https://past3.com.ng/js/vendor/jquery-3.1.1.slim.min.js&#34;&gt;&lt;/script&gt;
+        &lt;script src=&#34;https://past3.com.ng/js/vendor/velocity.min.js&#34;&gt;&lt;/script&gt;
+        &lt;script src=&#34;https://past3.com.ng/js/plugins.js&#34;&gt;&lt;/script&gt;
+        &lt;script src=&#34;https://past3.com.ng/js/main.js&#34;&gt;&lt;/script&gt;
+
+        &lt;!-- Google Analytics: change UA-XXXXX-X to be your site&#39;s ID. --&gt;
+        &lt;script&gt;
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src=&#39;//www.google-analytics.com/analytics.js&#39;;
+            r.parentNode.insertBefore(e,r)}(window,document,&#39;script&#39;,&#39;ga&#39;));
+            ga(&#39;create&#39;,&#39;UA-77388038-1&#39;,&#39;auto&#39;);ga(&#39;send&#39;,&#39;pageview&#39;);
+        &lt;/script&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://past3.com.ng/works/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -356,7 +491,17 @@
             &lt;/div&gt;
         &lt;/section&gt;
         &lt;section class=&#34;tc&#34;&gt;
-            &lt;div class=&#34;w-40-ns dib tr pa1 &#34; &gt;
+          &lt;div class=&#34;w-40-ns dib tl pa1 &#34; &gt;
+
+              &lt;a href=&#34;https://past3.com.ng/works/freedom_carnival_band/&#34; class=&#34;dib pa2 pointer&#34;&gt;
+                &lt;div class=&#34;hovereffect fl w-100 h-100 pointer&#34;&gt;
+                &lt;img src=&#34;https://past3.com.ng/img/freedom_band/home_short.png&#34; class=&#34;db relative&#34; alt=&#34;Freedom Carnival Band website&#34;/&gt;
+                    &lt;div class=&#34;overlay bg-blue code w-100 &#34;&gt;
+                        &lt;h2&gt;Freedom Band&lt;/h2&gt;
+                    &lt;/div&gt;
+                  &lt;/div&gt;
+              &lt;/a&gt;
+          &lt;/div&gt;&lt;div class=&#34;w-40-ns dib tr pa1 &#34; &gt;
 
                 &lt;a href=&#34;https://past3.com.ng/works/visaexpress_travel_club/&#34; class=&#34;dib pa2 pointer&#34;&gt;
                   &lt;div class=&#34;hovereffect fl w-100 h-100 pointer&#34;&gt;
@@ -366,7 +511,7 @@
                       &lt;/div&gt;
                     &lt;/div&gt;
                 &lt;/a&gt;
-            &lt;/div&gt;&lt;div class=&#34;w-40-ns dib tl pa1 &#34; &gt;
+            &lt;/div&gt;&lt;div class=&#34;w-40-ns dib tr pa1 &#34; &gt;
 
               &lt;a href=&#34;https://past3.com.ng/works/calabar_yellow_pages/&#34; class=&#34;dib pa2 pointer&#34;&gt;
                 &lt;div class=&#34;hovereffect fl w-100 h-100 pointer&#34;&gt;
@@ -376,7 +521,7 @@
                     &lt;/div&gt;
                   &lt;/div&gt;
               &lt;/a&gt;
-              
+            &lt;/div&gt;&lt;div class=&#34;w-40-ns dib tl pa1 &#34; &gt;
               &lt;a href=&#34;https://past3.com.ng/works/entrenet_network/&#34; class=&#34;dib pa2 pointer&#34;&gt;
                 &lt;div class=&#34;hovereffect fl w-100 h-100 pointer&#34;&gt;
                 &lt;img src=&#34;https://past3.com.ng/img/entrenet/gold.png&#34; class=&#34;db relative&#34; alt=&#34;Calabar Yellow Pages website&#34;/&gt;
