@@ -1,3 +1,4 @@
 baseurl = "https://past3.com.ng"
+
 languageCode = "en-us"
 title = "My New Hugo Site"
