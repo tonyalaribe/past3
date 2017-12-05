@@ -23,6 +23,7 @@ func main() {
 		log.Println("No Global port has been defined, using default")
 		PORT = "8080"
 	}
-
+	log.Println(PORT)
+	log.Println("Serving")
 	log.Fatal(http.ListenAndServe(":"+PORT, router))
 }
