@@ -1,0 +1,17 @@
+past3dev.com {
+    # other directives
+        filemanager /filesystem /home/ubuntu
+	expvar
+	proxy / localhost:8001
+	on startup systemctl restart past3
+	root  /home/ubuntu/server/past3
+	errors ./errors.log
+	git {
+		repo github.com/tonyalaribe/past3
+		interval 600
+		path src
+		then systemctl restart past3
+
+	}
+
+}
