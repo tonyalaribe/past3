@@ -15,3 +15,8 @@ past3dev.com {
 	}
 
 }
+
+past3.com.ng {
+	root  /home/ubuntu/server/past3
+	proxy / localhost:8001
+}
