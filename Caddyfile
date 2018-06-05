@@ -20,3 +20,8 @@ past3.com.ng {
 	root  /home/ubuntu/server/past3
 	proxy / localhost:8001
 }
+
+chronograph.past3dev.com {
+	root /home/ubuntu/server/past3
+	proxy / localhost:8888
+}
